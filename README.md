@@ -72,7 +72,7 @@ Model disimpan dalam format `.pkl` dan siap digunakan ulang.
    ```bash
    git clone https://github.com/username/prediksi-harga-rumah.git
    cd prediksi-harga-rumah
-````
+   ```
 
 2. **Siapkan environment & install dependensi**:
 

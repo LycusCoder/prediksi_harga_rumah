@@ -1,0 +1,12 @@
+luas_meter2,kamar_tidur,kamar_mandi,jarak_ke_kota,tahun_bangun,lokasi,harga,provinsi,kota,kecamatan
+70.0,3.0,2.0,15.0,2010.0,Jakarta Pusat (Menteng),1200000000.0,Jakarta,Pusat,Menteng
+120.0,4.0,3.0,5.0,2015.0,Jakarta Selatan (Pondok Indah),2500000000.0,Jakarta,Selatan,Pondok Indah
+55.0,2.0,1.0,20.0,2005.0,Bekasi (Jatiasih),500000000.0,Bekasi,,Jatiasih
+90.0,3.0,2.0,10.0,2018.0,Depok (Cimanggis),900000000.0,Depok,,Cimanggis
+150.0,5.0,3.0,7.0,2022.0,Tangerang (BSD),3000000000.0,Tangerang,,BSD
+80.0,3.0,2.0,12.0,2012.0,Jakarta Utara (Kelapa Gading),1500000000.0,Jakarta,Utara,Kelapa Gading
+100.0,4.0,2.0,8.0,2017.0,Bogor (Sentul),1800000000.0,Bogor,,Sentul
+60.0,2.0,1.0,25.0,2008.0,Tangerang Selatan (Pamulang),600000000.0,Tangerang,Selatan,Pamulang
+110.0,3.0,2.0,15.0,2020.0,Bekasi (Harapan Indah),1100000000.0,Bekasi,(Harapan,Harapan Indah
+130.0,4.0,3.0,6.0,2023.0,Depok (Margonda),2200000000.0,Depok,,Margonda
+75.0,3.0,2.0,18.0,2011.0,Jakarta Barat (Kebon Jeruk),1350000000.0,Jakarta,Barat,Kebon Jeruk

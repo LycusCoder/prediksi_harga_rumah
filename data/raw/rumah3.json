@@ -1,0 +1,47 @@
+[
+    {
+      "size": 75,
+      "room": 3,
+      "jumlah_toilet": 2,
+      "proximity": 18,
+      "construction_year": 2011,
+      "wilayah": "Jakarta Barat (Kebon Jeruk)",
+      "cost": 1350000000
+    },
+    {
+      "area": 95,
+      "jumlah_kamar": 4,
+      "bathroom": 2,
+      "distance": 10,
+      "year": 2016,
+      "alamat": "Jakarta Timur (Cakung)",
+      "nilai_properti": 1600000000
+    },
+    {
+      "luas_bangunan": 65,
+      "kamar_tidur": 2,
+      "kamar_mandi": 1,
+      "jarak": 30,
+      "tahun_bangun": 2007,
+      "location": "Bogor (Cibinong)",
+      "harga": 550000000
+    },
+    {
+      "luas_meter2": 105,
+      "bedrooms": 3,
+      "toilet": 2,
+      "jarak_ke_kota": 12,
+      "tahun_dibangun": 2019,
+      "lokasi": "Tangerang (Gading Serpong)",
+      "harga_rumah": 1900000000
+    },
+    {
+      "luas": 140,
+      "kamar": 5,
+      "jumlah_toilet": 3,
+      "proximity": 8,
+      "construction_year": 2024,
+      "wilayah": "Depok (Sawangan)",
+      "cost": 2800000000
+    }
+  ]
